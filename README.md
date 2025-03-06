@@ -1,7 +1,7 @@
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a7999,100:004157&">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:1a7999,100:004157&">
 
 
-[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100vw&size=19&duration=3000&pause=1000&color=0096C8&center=true&vCenter=true&width=1000&height=20&lines=Ol%C3%A1%2C+prazer+em+te+conhecer!;Sou+o+Matheus+Estevam+e+tenho+18+anos.;Curso+ADS+na+Fatec+Ipiranga.;Sou+apaixonado+pelo+desenvolvimento+mobile;e+por+coisas+que+facilitar%C3%A3o+meu+dia+a+dia!;Espero+que+goste+do+meu+perfil!)](https://git.io/typing-svg)
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100vw&size=35&duration=3000&pause=1000&color=0096C8&center=true&vCenter=true&width=1000&height=60&lines=Ol%C3%A1%2C+prazer+em+te+conhecer!;Sou+o+Matheus+Estevam+e+tenho+18+anos.;Curso+ADS+na+Fatec+Ipiranga.;Sou+apaixonado+pelo+desenvolvimento+mobile;e+por+coisas+que+facilitar%C3%A3o+meu+dia+a+dia!;Espero+que+goste+do+meu+perfil!)](https://git.io/typing-svg)
 
 
 <hr style="height: 3px; border: none; background-color:rgb(0, 41, 55); margin-bottom: 20px">
@@ -60,4 +60,4 @@
 
 
 
-<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a7999,100:004157&fontAlign=0&fontAlignY=0&section=footer&reversal=true">
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:1a7999,100:004157&fontAlign=0&fontAlignY=0&section=footer&reversal=true">
