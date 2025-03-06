@@ -1,16 +1,63 @@
-## Hi there 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a7999,100:004157&">
 
-<!--
-**matheushahah/matheushahah** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
-Here are some ideas to get you started:
+[![Typing SVG](https://readme-typing-svg.demolab.com?font=Fira+Code&weight=100vw&size=19&duration=3000&pause=1000&color=0096C8&center=true&vCenter=true&width=1000&height=20&lines=Ol%C3%A1%2C+prazer+em+te+conhecer!;Sou+o+Matheus+Estevam+e+tenho+18+anos.;Curso+ADS+na+Fatec+Ipiranga.;Sou+apaixonado+pelo+desenvolvimento+mobile;e+por+coisas+que+facilitar%C3%A3o+meu+dia+a+dia!;Espero+que+goste+do+meu+perfil!)](https://git.io/typing-svg)
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+
+<hr style="height: 3px; border: none; background-color:rgb(0, 41, 55); margin-bottom: 20px">
+
+
+<center>
+
+
+> Todos meus projetos pessoais quanto profissionais, estarão localizados aqui no GitHub para *facilitar a visualização* às pessoas **mais experientes** para que possam me oferecer ***feedback ou até mesmo oferecer uma vaga***.
+
+
+</center>
+
+
+<hr style="height: 3px; border: none; background-color: rgb(0, 41, 55); margin-top: 20px">
+
+
+### 🔨 Tecnologias
+
+
+<img width="30" align="left" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/html5/html5-original.svg" />
+
+<img width="30" align="left" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/css3/css3-original.svg" />
+
+<img width="30" align="left" style="padding-right: 40px;" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/javascript/javascript-original.svg" />
+
+<img width="30" align="left" style="padding-right: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/react/react-original.svg" />
+
+<img width="30" align="left" style="padding-right: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
+
+<img width="30" align="left" style="padding-right: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
+
+<img width="30" align="left" style="padding-right: 40px; filter: invert(1);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
+<br>
+
+<hr style="height: 3px; border: none; background-color: rgb(0, 41, 55); margin-top: 20px">
+
+
+<div style="width: 100vw; display: flex">
+
+### 📊 Estatísticas
+<a href="https://github.com/matheushahah/github-readme-stats">
+    <img 
+    align="left"
+    height="150"
+    src="https://github-readme-stats.vercel.app/api?username=matheushahah&show_icons=true&theme=tokyonight" >
+</a>
+
+<img
+    height="150"
+    src="https://github-readme-stats.vercel.app/api/top-langs/?username=matheushahah&layout=compact&theme=tokyonight">
+
+
+</div>
+
+
+
+
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=200&color=0:1a7999,100:004157&fontAlign=0&fontAlignY=0&section=footer&reversal=true">
