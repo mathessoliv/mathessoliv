@@ -39,6 +39,15 @@
 
 <hr style="height: 3px; border: none; background-color: rgb(0, 41, 55); margin-top: 20px">
 
+### ☎️ Contato
+
+<a href="mailto:matheusoliveirale2007@gmail.com" target="_blank"> <img width="100" align="left" style="padding-right: 40px;" src="https://img.shields.io/badge/Gmail-D14836?style=for-the-badge&logo=gmail&logoColor=white"> </a>
+
+<a href="https://www.linkedin.com/in/matheus-oliveira-116467296/" target="_blank"> <img width="100" align="left" style="padding-right: 40px;" src="https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white"> </a>
+
+<br>
+
+<hr style="height: 3px; border: none; background-color: rgb(0, 41, 55); margin-top: 20px">
 
 <div style="width: 100vw; display: flex">
 
@@ -56,8 +65,6 @@
 
 
 </div>
-
-
 
 
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&height=150&color=0:1a7999,100:004157&fontAlign=0&fontAlignY=0&section=footer&reversal=true">
