@@ -32,6 +32,8 @@
 
 <img width="30" align="left" style="padding-right: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/python/python-original.svg" />
 
+<img width="30" align="left" style="padding-right: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/java/java-original.svg" />
+
 <img width="30" align="left" style="padding-right: 40px" src="https://cdn.jsdelivr.net/gh/devicons/devicon@latest/icons/git/git-original.svg" />
 
 <img width="30" align="left" style="padding-right: 40px; filter: invert(1);" src="https://cdn.jsdelivr.net/gh/devicons/devicon/icons/github/github-original.svg" />
